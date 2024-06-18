@@ -1,7 +1,3 @@
-The `SECURITY.md` file is used to provide information about the security practices and procedures of your project, particularly how security vulnerabilities are reported and handled. Here's a template you can use for your `SECURITY.md` file:
-
----
-
 # Security Policy
 
 ## Reporting a Vulnerability
@@ -31,7 +27,3 @@ This project is currently supported and receives security updates for the latest
 ## Contact
 
 For any questions or concerns regarding security, please contact us at [mittal.risheek@gmail.com](mailto:mittal.risheek@gmail.com).
-
----
-
-Feel free to customize this template to fit the specific security practices and procedures of your project.
