@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'core/constants/constants.dart';
+import 'core/env/config.dart';
 import 'core/theme/app_theme.dart';
 import 'presentation/screens/splash/splash_screen.dart';
 
